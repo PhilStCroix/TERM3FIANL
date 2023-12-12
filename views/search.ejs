@@ -1,0 +1,34 @@
+<!-- views/search.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Results</title>
+</head>
+<body>
+  <h1>Search Results for '<%= keyword %>'</h1>
+
+  <% if (postgresResults.length === 0 && mongodbResults.length === 0) { %>
+    <p>No results found.</p>
+  <% } else { %>
+    <% if (postgresResults.length > 0) { %>
+      <h2>PostgreSQL Results</h2>
+      <ul>
+        <% postgresResults.forEach(book => { %>
+          <li><%= book.title %></li>
+        <% }); %>
+      </ul>
+    <% } %>
+
+    <% if (mongodbResults.length > 0) { %>
+      <h2>MongoDB Results</h2>
+      <ul>
+        <% mongodbResults.forEach(book => { %>
+          <li><%= book.title %></li>
+        <% }); %>
+      </ul>
+    <% } %>
+  <% } %>
+</body>
+</html>
