@@ -69,8 +69,15 @@
       <option value="mongodb">MongoDB</option>
       <option value="both">Both</option>
     </select>
-    <button type="submit">Search</button>
-  </form>
+    <button type="submit">Search</button>    
+  </form>  
+  <% if (userName) { %>
+    <form action="/logout" method="POST">
+      <button type="submit">Logout</button>
+    </form>
+  <% } %>
 </body>
 </html>
+
+
 

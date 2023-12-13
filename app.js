@@ -218,7 +218,15 @@ app.post("/search", checkAuthenticated, async (req, res) => {
   });
 });
 
-
+app.post("/logout", (req, res) => {
+  req.logout((err) => {
+    if (err) {
+      console.error(err);
+      return res.status(500).send("Internal server error");
+    }
+    res.redirect("/login");
+  });
+});
 
 // Route for displaying book details
 app.get('/books/:id', async (req, res) => {
