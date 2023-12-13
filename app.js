@@ -74,7 +74,8 @@ app.get("/", (req, res) => {
 });
 
 app.get("/index", checkAuthenticated, (req, res) => {
-  res.render("index");
+  const userName = req.session.user.name;
+  res.render("index", { userName: userName });
 });
 
 app.get("/register", (req, res) => {
@@ -130,6 +131,8 @@ app.post("/login", async (req, res) => {
           name: user.rows[0].name,
           email: user.rows[0].email,
         };
+
+        req.flash("success", "Login successful")
         res.redirect("/index");
       } else {
         // Incorrect password
