@@ -1,51 +1,37 @@
-<!-- views/search.ejs -->
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Search Results</title>
-  </head>
-  <body>
-    <h1>Search Results for '<%= keyword %>'</h1>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Search Results</title>
+</head>
+<body>
+  <h1>Search Results for '<%= keyword %>'</h1>
 
-    <% if (postgresResults.length === 0) { %>
+  <% if (postgresResults.length === 0 && mongodbResults.length === 0) { %>
     <p>No results found.</p>
-    <% } else { %>
+  <% } else { %>
+
+  <% if (postgresResults.length > 0) { %>
     <h2>PostgreSQL Results</h2>
     <ul>
       <% postgresResults.forEach(result => { %>
-      <li><%= result.title %></li>
-      <!-- Adjust this line based on your result object -->
+        <li><%= result.title %></li>
+        <!-- Adjust this line based on your result object -->
       <% }); %>
     </ul>
-    <% } %>
-  </body>
-</html>
+  <% } %>
 
-<!--
-  // < % if (mongodbResults.length === 0) { %>
-    <p>No MongoDB results found.</p>
-  // < % } else { %>
+  <% if (mongodbResults.length > 0) { %>
     <h2>MongoDB Results</h2>
-    Render MongoDB Results
-  // < % } %>
+    <ul>
+      <% mongodbResults.forEach(result => { %>
+        <li><%= result.title %></li>
+        <!-- Adjust this line based on your MongoDB result object -->
+      <% }); %>
+    </ul>
+  <% } %>
+
+  <% } %>
 </body>
 </html>
-
-// revert back to this to connect mongo -->
-<!-- <h1>Search Results for '< %= keyword %>'</h1>
-
-// < % if (!postgresResults || !mongodbResults || (postgresResults.length === 0 && mongodbResults.length === 0)) { %>
-    <p>No results found.</p>
-// < % } else { %>
- //   < % if (postgresResults.length > 0) { %>
-        <h2>PostgreSQL Results</h2>
-        Display PostgreSQL results here -->
-<!-- //     < % } %> -->
-
-<!-- //   < % if (mongodbResults.length > 0) { %> -->
-<!-- <h2>MongoDB Results</h2> -->
-<!-- Display MongoDB results here -->
-<!-- //    < % } %>
-< % } %> -->

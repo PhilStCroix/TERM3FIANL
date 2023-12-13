@@ -14,7 +14,7 @@ async function connectToMongoDB() {
     console.log("Connected to MongoDB");
 
     const database = client.db("FST3");
-    mongodbCollection = database.collection("books"); // Replace 'books' with your actual collection name
+    mongodbCollection = database.collection("BOOKS"); // Replace 'books' with your actual collection name
   } catch (error) {
     console.error("Error connecting to MongoDB:", error);
     throw error;

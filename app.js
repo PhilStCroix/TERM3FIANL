@@ -5,6 +5,8 @@ const bcrypt = require("bcrypt");
 const passport = require("passport");
 const LocalStrategy = require("passport-local").Strategy;
 const { Pool } = require("pg");
+const { MongoClient } = require('mongodb');
+
 
 const app = express();
 
@@ -26,8 +28,8 @@ app.use(flash());
 const pool = new Pool({
   user: "postgres",
   host: "localhost",
-  database: "Login",
-  password: "Keyin2021",
+  database: "FST3",
+  password: "Olivia2021",
   port: 5432,
 });
 
@@ -86,11 +88,15 @@ app.get("/search", checkAuthenticated, async (req, res) => {
   try {
     const keyword = req.query.keyword;
     const postgresResults = await searchInPostgres(keyword);
+    const mongodbResults = await searchInMongoDB(keyword);
+
+    console.log("PostgreSQL Results:", postgresResults);
+    console.log("MongoDB Results:", mongodbResults);
 
     res.render("search", {
       keyword: keyword,
       postgresResults: postgresResults,
-      // mongodbResults: mongodbResults,
+      mongodbResults: mongodbResults,
     });
   } catch (error) {
     console.error(error);
@@ -167,8 +173,10 @@ app.post("/search", checkAuthenticated, async (req, res) => {
   const keyword = req.body.keyword;
   const selectedDatabase = req.body.database;
 
+  console.log('Search keyword:', keyword);
+
   let postgresResults = [];
-  // let mongodbResults = [];
+  let mongodbResults = [];
 
   // Search in PostgreSQL
   if (selectedDatabase === "postgres" || selectedDatabase === "both") {
@@ -177,12 +185,13 @@ app.post("/search", checkAuthenticated, async (req, res) => {
 
   // Search in MongoDB
   if (selectedDatabase === "mongodb" || selectedDatabase === "both") {
-    mongodbResults = await searchInMongoDB(keyword);
+    const mongodbCollection = await connectToMongoDB();
+    mongodbResults = await searchInMongoDB(mongodbCollection ,keyword);
   }
 
   res.render("search", {
     postgresResults: postgresResults,
-    // mongodbResults: mongodbResults,
+    mongodbResults: mongodbResults,
     keyword: keyword,
   });
 });
@@ -193,13 +202,17 @@ async function searchInPostgres(keyword) {
   return result.rows;
 }
 
-// async function searchInMongoDB(keyword) {
-//   // Assuming you have a 'books' collection in MongoDB
-//   const mongodbResults = await mongodbCollection
-//     .find({ title: { $regex: new RegExp(keyword, "i") } })
-//     .toArray();
-//   return mongodbResults;
-// }
+async function searchInMongoDB(keyword) {
+  try {
+    console.log('Keyword:', keyword);
+
+    const result = await mongodbCollection.find({ title: { $regex: new RegExp(keyword, "i") } }).toArray();
+    return result;
+  } catch (error) {
+    console.error('Error searching in MongoDB:', error);
+    return [];
+  }
+}
 
 function checkAuthenticated(req, res, next) {
   if (req.session.user) {
@@ -208,8 +221,36 @@ function checkAuthenticated(req, res, next) {
   res.redirect("/");
 }
 
-// Connect to MongoDB
-// mongodb.connectToMongoDB().catch(console.error);
+let mongodbCollection;
+
+async function connectToMongoDB() {
+  const client = new MongoClient('mongodb://localhost:27017', {
+    useUnifiedTopology: true,
+  });
+
+  try {
+    await client.connect();
+    console.log('Connected to MongoDB');
+    const db = client.db('FST3');
+    mongodbCollection = db.collection('BOOKS'); 
+  } catch (error) {
+    console.error('Error connecting to MongoDB:', error);
+    throw error;
+  }
+}
+
+async function searchInMongoDB(collection, keyword) {
+  try {
+    const result = await mongodbCollection.find({title: {$regex: new RegExp(keyword, "i") } }).toArray();
+    return result;
+  } catch (error) {
+    console.error('Error searching in MongoDB:', error);
+    return[];
+  }
+}
+
+connectToMongoDB().catch(console.error);
+
 
 // Start the server
 const PORT = process.env.PORT || 3000;
