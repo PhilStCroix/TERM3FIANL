@@ -215,6 +215,27 @@ app.post("/search", checkAuthenticated, async (req, res) => {
   });
 });
 
+
+
+// Route for displaying book details
+app.get('/books/:id', async (req, res) => {
+  try {
+    const bookId = req.params.bookId;
+    const bookDetails = await getBookbyId(bookId);
+
+    if (bookDetails) {
+      res.render('bookDetails', { book: bookDetails });
+    } else {
+      res.status(404).send('Book not found');
+    }
+  } catch (error) {
+    console.error(error);
+    res.status(500).send('Internal Server Error');
+  }
+});
+
+
+
 async function searchInPostgres(keyword) {
   const query = "SELECT * FROM books WHERE LOWER(title) LIKE LOWER($1)";
   const result = await pool.query(query, [`%${keyword}%`]);
@@ -269,6 +290,52 @@ async function searchInMongoDB(collection, keyword) {
 }
 
 connectToMongoDB().catch(console.error);
+
+// Function to get book details from PostgreSQL
+async function getBookDetailsFromPostgres(bookId) {
+  const query = "SELECT * FROM books WHERE id = $1";
+  const result = await pool.query(query, [bookId]);
+
+  if (result.rows.length > 0) {
+    return result.rows[0];
+  } else {
+    return null;
+  }
+}
+
+// Function to get book details from MongoDB
+async function getBookDetailsFromMongoDB(bookId) {
+  try {
+    const result = await mongodbCollection.findOne({ _id: bookId });
+
+    if (result) {
+      return result;
+    } else {
+      return null;
+    }
+  } catch (error) {
+    console.error('Error getting book details from MongoDB:', error);
+    return null;
+  }
+}
+
+async function getBookDetails(bookId) {
+  // Implement the logic to retrieve book details from your database
+  // For PostgreSQL
+  const query = 'SELECT * FROM books WHERE id = $1';
+  const result = await pool.query(query, [bookId]);
+
+  // For MongoDB
+  // const result = await mongodbCollection.findOne({ _id: new ObjectId(bookId) });
+
+  // Check if a book was found
+  if (result.rows.length > 0) {
+    return result.rows[0];
+  } else {
+    return null; // Return null if no book is found
+  }
+}
+
 
 
 // Start the server
