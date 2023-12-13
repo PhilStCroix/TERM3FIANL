@@ -8,9 +8,10 @@
   </head>
   <body>
     <h1>Book Finder</h1>
+    <p>Enter a book title or keyword then select the database you want to search.</p>
     <form action="/search" method="post">
       <label for="keyword">Enter Keyword:</label>
-      <input type="text" id="keyword" name="keyword" required />
+      <input type="text" id="keyword" name="keyword" placeholder="Enter all to see all books" required />
 
       <label for="database">Choose Database:</label>
       <select id="database" name="database">
@@ -23,3 +24,4 @@
     </form>
   </body>
 </html>
+

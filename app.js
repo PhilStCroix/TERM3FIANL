@@ -1,4 +1,5 @@
 const express = require("express");
+const logger = require('./logger');
 const session = require("express-session");
 const bodyParser = require("body-parser");
 const bcrypt = require("bcrypt");
@@ -86,12 +87,14 @@ app.get("/login", (req, res) => {
 
 app.get("/search", checkAuthenticated, async (req, res) => {
   try {
-    const keyword = req.query.keyword;
+    const keyword = req.query.keyword;    
+
     const postgresResults = await searchInPostgres(keyword);
     const mongodbResults = await searchInMongoDB(keyword);
 
     console.log("PostgreSQL Results:", postgresResults);
-    console.log("MongoDB Results:", mongodbResults);
+    console.log("MongoDB Results:", mongodbResults);   
+
 
     res.render("search", {
       keyword: keyword,
@@ -113,7 +116,7 @@ app.post("/login", async (req, res) => {
   const { email, password } = req.body;
 
   try {
-    const user = await pool.query("SELECT * FROM logins WHERE email = $1", [
+    const user = await pool.query("SELECT id, name, email, password FROM logins WHERE email = $1", [
       email,
     ]);
 
@@ -122,7 +125,11 @@ app.post("/login", async (req, res) => {
       const passwordMatch = await bcrypt.compare(password, hashedPassword);
 
       if (passwordMatch) {
-        req.session.user = user.rows[0];
+        req.session.user = {
+          id: user.rows[0].id,
+          name: user.rows[0].name,
+          email: user.rows[0].email,
+        };
         res.redirect("/index");
       } else {
         // Incorrect password
@@ -137,6 +144,7 @@ app.post("/login", async (req, res) => {
     res.status(500).send("Internal server error");
   }
 });
+
 
 app.post("/register", async (req, res) => {
   console.log("Inside /register POST route");
@@ -172,24 +180,35 @@ app.post("/register", async (req, res) => {
 app.post("/search", checkAuthenticated, async (req, res) => {
   const keyword = req.body.keyword;
   const selectedDatabase = req.body.database;
+  const userId = req.session.id;
+  const userName = req.session.name;
 
   console.log('Search keyword:', keyword);
+  logger.logSearchAction(keyword, userId, userName);
 
   let postgresResults = [];
   let mongodbResults = [];
 
-  // Search in PostgreSQL
-  if (selectedDatabase === "postgres" || selectedDatabase === "both") {
-    postgresResults = await searchInPostgres(keyword);
-  }
-
-  // Search in MongoDB
-  if (selectedDatabase === "mongodb" || selectedDatabase === "both") {
+  // Check if the keyword is "all" to retrieve all books
+  if (keyword.toLowerCase() === 'all') {
+    // Retrieve all books without applying the keyword filter
+    postgresResults = await searchInPostgres('');
     const mongodbCollection = await connectToMongoDB();
-    mongodbResults = await searchInMongoDB(mongodbCollection ,keyword);
+    mongodbResults = await searchInMongoDB(mongodbCollection, '');
+  } else {
+    // Search in PostgreSQL
+    if (selectedDatabase === "postgres" || selectedDatabase === "both") {
+      postgresResults = await searchInPostgres(keyword);
+    }
+
+    // Search in MongoDB
+    if (selectedDatabase === "mongodb" || selectedDatabase === "both") {
+      const mongodbCollection = await connectToMongoDB();
+      mongodbResults = await searchInMongoDB(mongodbCollection, keyword);
+    }
   }
 
-  res.render("search", {
+    res.render("search", {
     postgresResults: postgresResults,
     mongodbResults: mongodbResults,
     keyword: keyword,
@@ -256,4 +275,5 @@ connectToMongoDB().catch(console.error);
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
+  console.log('Connected to PostgreSQL');
 });

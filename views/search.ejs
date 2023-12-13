@@ -7,6 +7,9 @@
 </head>
 <body>
   <h1>Search Results for '<%= keyword %>'</h1>
+  <form action="/index" method="get">
+    <button type="submit">Return to Search</button>
+  </form>
 
   <% if (postgresResults.length === 0 && mongodbResults.length === 0) { %>
     <p>No results found.</p>
