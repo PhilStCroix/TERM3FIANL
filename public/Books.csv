@@ -1,0 +1,1001 @@
+book_id,title,author_id,genre_id,publication_year,ISBN
+1,Halo 4: Forward Unto Dawn,66,14,1993,805741046-9
+2,Anything for Her (Pour elle),33,11,2001,694952233-9
+3,"Hound of the Baskervilles, The",11,2,1987,873436894-9
+4,Outside Satan (Hors Satan),64,8,1981,234994798-X
+5,Boys on the Side,23,4,2008,865605215-2
+6,"Human Condition III, The (Ningen no joken III)",54,13,2012,465934519-X
+7,Renegades,91,12,2006,723199328-1
+8,Ping Pong Summer,71,1,2008,271823747-3
+9,Special Mission Lady Chaplin,57,15,2002,838110927-2
+10,Close-Up (Nema-ye Nazdik),47,9,2009,644048036-7
+11,"River, The",67,10,1993,166241200-2
+12,Cadence,88,6,1994,287543843-3
+13,"Doll, The (Lalka)",40,3,1988,860510030-3
+14,Striking Distance,42,7,2011,318115930-1
+15,Jason Becker: Not Dead Yet,52,5,2012,062167322-6
+16,Northwest Passage,99,10,2011,588079578-0
+17,Heaven Help Us,5,8,2005,923279742-9
+18,Zatoichi Meets the One-Armed Swordsman (Shin zatô Ichi: Yabure! Tôjin-ken) (Zatôichi 22),19,4,2001,622979770-4
+19,"Sorry, Wrong Number",21,5,1999,388587540-3
+20,London Boulevard,44,2,1993,624759678-2
+21,Jude,29,7,2003,220516975-0
+22,Avenger ,98,11,2012,775828651-8
+23,Four Heads Are Better Than One (Un homme de tête),7,13,2008,363075620-4
+24,16 to Life,80,9,2001,384095725-7
+25,Dirty Rotten Scoundrels,9,6,2010,929444145-8
+26,Before the Fall (NaPolA - Elite für den Führer),8,1,2008,555768014-4
+27,Conquest,22,3,2004,432825409-X
+28,August,89,14,1996,283153095-4
+29,Be Kind Rewind,84,12,1995,814423849-4
+30,Signs,48,15,2006,594043020-1
+31,Shall We Dance,94,11,1994,809511017-5
+32,Offspring ,31,13,1964,822912793-X
+33,Ocho apellidos vascos,47,3,1997,859668212-0
+34,Penthouse North,80,12,2005,453464531-7
+35,Zenith,7,7,1994,672467502-2
+36,India: Matri Bhumi,63,6,1986,648324034-1
+37,Prairie Love,52,4,1986,960735736-1
+38,"Chorus Line, A",28,14,1999,373890942-7
+39,The Wind in the Willows,23,10,2011,395384259-5
+40,Last Summer in the Hamptons,36,8,2012,563927943-5
+41,Tony Takitani,83,11,2000,761956864-6
+42,Mary Stevens M.D.,82,2,2011,542687199-X
+43,How About You...,54,15,1989,743002203-0
+44,Chouga (Shuga),39,1,1996,788341940-4
+45,"Giver, The",16,9,1999,914213413-7
+46,Red Dust,17,5,1998,427920072-6
+47,Kid Millions,20,1,2006,864071413-4
+48,Essential Killing,95,2,1998,053353718-5
+49,"Warlords, The (Tau ming chong)",2,3,1996,910465399-8
+50,"Blob, The",81,11,1987,730578192-4
+51,"Boy Named Charlie Brown, A",96,10,2009,219697013-1
+52,June 9 ,40,6,2008,301260682-3
+53,False as Water (Falsk som vatten),94,4,1985,775590637-X
+54,Century,19,14,2010,945025595-4
+55,Suppose They Gave a War and Nobody Came?,35,15,2000,790070213-X
+56,Eye of God,3,7,1985,108452619-0
+57,Hit and Runway,65,13,2002,216811231-2
+58,Bad Day on the Block,42,8,1998,757308513-3
+59,Voll Normaaal,15,12,2012,324820596-2
+60,Maîtresse (Mistress),92,9,1996,890571907-4
+61,Gaudi Afternoon,71,5,2004,857662648-9
+62,Beginning of the End,55,1,2001,119735540-5
+63,Echoes of the Rainbow (Sui yuet san tau),35,13,1999,420769494-3
+64,Dragon Crusaders,84,10,2013,659303786-9
+65,Portrait of Jennie,46,3,2009,711269875-8
+66,Rumor Has It...,61,12,2010,014000055-0
+67,Loose Cannons,17,4,2009,334030409-2
+68,Jacky in the Kingdom of Women,29,9,1999,669518047-4
+69,Local Color,8,6,1994,115009222-X
+70,"Tale of Zatoichi Continues, The (Zoku Zatôichi monogatari) (Zatôichi 2)",5,11,1987,315118079-5
+71,Cimarron,93,14,1999,411209788-3
+72,Incendies,9,15,1991,292784730-4
+73,Mirage,11,7,2001,188813402-X
+74,Heartbreakers,28,5,1995,876501754-4
+75,Dear Me,65,8,1953,469748086-4
+76,King of California,68,2,1989,595361001-7
+77,"Railway Children, The",4,1,2006,062971211-5
+78,Primal Fear,15,2,2012,529574980-0
+79,"Bolero (Uns et les autres, Les)",96,11,2004,391081848-X
+80,Blind Husbands,16,14,2011,375878158-2
+81,Carrington,75,15,1995,734708746-5
+82,Heat and Dust,99,13,1993,023187969-5
+83,Lad: A Dog,32,8,2012,374134644-6
+84,"Physician, The",60,5,1991,509013912-1
+85,Ever Since the World Ended,21,1,2008,741086912-7
+86,Dahmer,34,4,1993,386339332-5
+87,"Crew, The",43,12,2001,834162206-8
+88,Day of the Falcon,100,7,2010,936720945-2
+89,"Story of Yonosuke, A (Yokomichi Yonosuke)",23,10,2004,502270337-8
+90,Kickboxer 3: The Art of War (Kickboxer III: The Art of War),7,6,1998,565467945-7
+91,"Prowler, The (a.k.a. Rosemary's Killer) (a.k.a. The Graduation)",63,9,2009,987603559-2
+92,Crossroads,22,3,2012,990639057-3
+93,Traces of Red,98,3,1999,477766271-3
+94,All the Way Home,54,11,2011,069240316-7
+95,Incognito,13,5,2001,459188882-7
+96,"Tramp, The (Awaara) (Awara)",55,13,2012,320548390-1
+97,"Eila, Rampe and Likka",87,2,2012,171417845-5
+98,Phineas and Ferb the Movie: Across the 2nd Dimension,23,14,1992,258458311-9
+99,Under Siege,34,9,2007,756373034-6
+100,Ikigami,37,4,1993,076679153-X
+101,How They Get There,70,12,2004,082011143-0
+102,"Me Two (Personne aux deux personnes, La)",10,3,1997,686547391-4
+103,"Near East, The (El Proximo Oriente)",25,1,1990,533880478-6
+104,"Devil's Brigade, The",7,15,2001,824304633-X
+105,Taste of Cherry (Ta'm e guilass),33,7,1991,550784355-4
+106,"Sailor Who Fell from Grace with the Sea, The",50,6,2008,961757334-2
+107,"Misérables, Les",72,8,1994,391719689-1
+108,"Bachelor, The",27,10,2009,090153296-7
+109,"Hidden Fortress, The (Kakushi-toride no san-akunin)",62,4,1994,543761673-2
+110,Blue Steel,18,12,2010,789254494-1
+111,Hurt,16,8,1993,007523412-2
+112,Bring on the Night,46,9,2004,038842388-9
+113,Two Tars,85,6,2006,528473913-2
+114,Urban Legends: Bloody Mary,94,2,2003,769371366-2
+115,My Little Chickadee,83,10,2010,284090857-3
+116,"Social Network, The",36,3,2006,587933294-2
+117,Alligator Eyes,71,7,1994,954612825-2
+118,Edges of the Lord,17,1,1996,500625720-2
+119,"Day the Fish Came Out, The",3,5,2004,546474037-6
+120,Robocroc,15,11,1993,619575784-5
+121,Nick of Time,57,14,1996,947507759-6
+122,Brain Dead,61,15,2006,345110618-3
+123,"Indian Tomb, The (Das indische Grabmal)",32,13,2011,656427953-1
+124,"Lucky One, The",26,15,1991,375488491-3
+125,Urban Justice,13,9,2001,242594186-X
+126,Tokyo Fiancée,96,1,2009,818021119-3
+127,"Courage of the Eagles, The (Les aiguilles rouges)",53,15,2010,982477530-7
+128,Primrose Path,25,11,2000,798189162-0
+129,"House of Branching Love, The (Haarautuvan rakkauden talo)",38,10,2007,781427444-3
+130,All the Vermeers in New York,82,8,2007,838346239-5
+131,Carry on Spying (Agent Oooh!),85,14,2005,615473128-0
+132,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,51,4,1993,081021426-1
+133,Daddy Day Camp,40,12,2005,753925217-0
+134,"General's Daughter, The",43,13,2010,344336126-9
+135,Girl in Progress,10,7,2004,801964782-1
+136,Devil's Diary,49,3,1980,725899382-7
+137,Kill! (Kiru),79,2,1991,468448471-8
+138,"North and South, Book II",22,5,2004,333120812-4
+139,Shadows of Liberty ,70,6,2003,177363630-8
+140,Ernest Scared Stupid,84,13,2004,385132132-4
+141,The Merry Widow,68,6,2003,364483522-5
+142,Amazonia,60,7,2012,333992679-4
+143,Miffo,97,10,2011,729729370-9
+144,"Sound of Thunder, A",69,2,2009,688776526-8
+145,Breakin' All the Rules,30,12,1993,635498122-1
+146,What Price Hollywood?,93,4,2001,473199890-5
+147,Flood,76,14,2006,409969067-9
+148,Airspeed,52,11,2003,473671015-2
+149,Jamesy Boy,20,1,1986,269871538-3
+150,Pygmalion,57,15,2007,633553691-9
+151,"Hindenburg, The",39,9,1995,886782270-5
+152,Cleo from 5 to 7 (Cléo de 5 à 7),45,8,2012,641774472-8
+153,"Little Brother, Big Trouble: A Christmas Adventure (Niko 2: Lentäjäveljekset)",28,3,2002,437396840-3
+154,"Yellow Sea, The (a.k.a. The Murderer) (Hwanghae)",1,5,2009,821498474-2
+155,Soft Toilet Seats,12,5,1993,569077006-X
+156,Fawlty Towers (1975-1979),26,13,2011,501337635-1
+157,"Art of War, The",43,2,2005,386375144-2
+158,Bloodfist,54,6,1999,832246068-6
+159,Pathfinder (Ofelas),18,7,1998,024096590-6
+160,DMT: The Spirit Molecule,13,4,2000,151527465-9
+161,David et Madame Hansen,30,12,2010,885266828-4
+162,Extraordinary Stories (Historias extraordinarias),83,11,2010,850939211-0
+163,Meteor,72,9,2010,604635259-2
+164,Terminal Velocity,3,14,1994,470101546-6
+165,Nine Months,32,10,2000,399078671-7
+166,Philomena,66,5,2013,117931929-X
+167,"Silence of the Sea, The (Le silence de la mer)",78,1,1994,399608796-9
+168,Mark of the Devil (Hexen bis aufs Blut gequält),79,8,2010,538593800-9
+169,"10th Kingdom, The",22,3,1984,921790843-6
+170,"Greening of Whitney Brown, The",91,15,1950,457649061-3
+171,"Rack, The",100,5,2006,179978191-7
+172,Rage of Angels,90,14,2004,060009489-8
+173,Dr. Jekyll and Mr. Hyde,53,10,1999,763995181-X
+174,Nicholas and Alexandra,71,11,2000,605144901-9
+175,Colombiana,52,15,1993,653509694-7
+176,"Ice Pirates, The",56,2,2001,756676677-5
+177,Invasion U.S.A.,87,9,2008,602996425-9
+178,English Vinglish,45,8,2010,124975594-8
+179,Emergency Squad,81,1,2012,880630634-0
+180,Dark Command,24,4,2005,785828412-6
+181,"Abandoned, The",74,13,1968,808373417-9
+182,Shoeshine (Sciuscià),44,3,2000,628981344-7
+183,"Suitor, The (Soupirant, Le)",33,7,2003,426527453-6
+184,Seaside (Bord de Mer),7,12,2006,616605853-5
+185,"Blood of Heroes, The (Salute of the Jugger, The)",2,6,2000,324358055-2
+186,Burning Bright,36,3,1998,677658257-2
+187,"Blue Gardenia, The",86,14,1995,787797856-1
+188,Blood Runs Cold,34,3,1989,213356920-0
+189,"Prime of Miss Jean Brodie, The",50,5,2006,099202692-X
+190,My Best Girl,81,2,2012,553698742-9
+191,Ratatouille,77,11,1984,384564583-0
+192,Fog Over Frisco,90,6,2001,186573273-7
+193,Lumumba,15,4,2011,308045497-9
+194,Chandni Chowk to China,18,10,2002,824703924-9
+195,"Key, The",14,13,2002,225057250-X
+196,"Act in Question, The (Acto en cuestión, El)",56,7,1992,762697860-9
+197,"Plastic Age, The",78,9,1991,797924802-3
+198,Mr Hublot,59,8,1993,595146296-7
+199,Inhale,93,12,2002,264393163-7
+200,Beethoven,10,1,1996,392607471-X
+201,Internes Can't Take Money,67,15,1993,442888206-8
+202,"Hi-Lo Country, The",61,12,2013,534510632-0
+203,"Khroustaliov, My Car! (Khrustalyov, mashinu!)",95,11,2009,318716525-7
+204,Justice League: The Flashpoint Paradox,83,6,1995,299713146-4
+205,Gabrielle,19,9,1982,447493498-9
+206,Another Year,9,7,1991,456169324-6
+207,Life or Something Like It,74,3,1995,292073173-4
+208,Star Trek: First Contact,69,13,1995,298195460-1
+209,Emotion,25,2,1996,242191688-7
+210,Four Sided Triangle,70,14,1993,735479588-7
+211,Porky's,41,10,1994,056688062-8
+212,Drowning Mona,47,8,2004,352549515-3
+213,"Spy Who Loved Me, The",43,1,2004,673112132-0
+214,Acts of Worship ,88,4,2010,816368526-3
+215,Caesar Must Die (Cesare deve morire),96,15,2000,814367201-8
+216,Turn It Up,64,5,1987,417411818-3
+217,Time of Roses (Ruusujen aika),5,8,2002,992462380-0
+218,Blood Suckers from Outer Space,24,4,2008,527333170-6
+219,Edison Kinetoscopic Record of a Sneeze,7,9,2008,341128654-7
+220,Stroszek,32,7,2003,842905326-3
+221,American Strays,25,14,2005,635411260-6
+222,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",39,6,2009,952715686-6
+223,Nanook of the North,13,15,2003,038643432-8
+224,Guns at Batasi,50,1,1989,840100606-6
+225,"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk)",96,8,1991,158124073-2
+226,Dylan Dog: Dead of Night,80,5,1992,653423740-7
+227,"Fork in the Road, A",90,11,1992,467268821-6
+228,Legally Blonde,20,12,2006,966705469-1
+229,Get Real,11,3,1995,817291344-3
+230,Thomas Pynchon: A Journey into the Mind of P.,4,10,2000,735188821-3
+231,I Love Trouble,95,13,2010,464090801-6
+232,"Running Man, The",76,2,2009,224084804-9
+233,Go Go Tales,99,14,1996,462857954-7
+234,Mickey's The Prince and the Pauper,2,1,2003,853524518-9
+235,"Good Student, The (Mr. Gibb)",69,11,2000,594689516-8
+236,"First Day of the Rest of Your Life, The (Le premier jour du reste de ta vie)",53,2,1985,088930812-8
+237,Sonatine (Sonachine),16,12,1994,856224296-9
+238,Heaven,87,5,1986,367823393-7
+239,State of Siege (État de siège),63,4,2005,323515793-X
+240,"Naked Kiss, The",8,15,2004,295653020-8
+241,Unfaithfully Yours,33,6,1995,966649719-0
+242,"Covenant, The",1,8,2004,296446213-5
+243,Malice N Wonderland,12,10,1992,031251898-6
+244,District 13 (Banlieue 13),57,7,2009,522539924-X
+245,Salt of the Earth,37,3,2003,976474740-X
+246,Bomber,43,9,2010,302551268-7
+247,Garden Party,60,13,1987,325719498-6
+248,Gothika,29,10,1992,198719078-5
+249,Earth (Zemlya),80,15,1993,326620988-5
+250,The great match,14,9,1992,951008344-5
+251,"Where Angels Go, Trouble Follows",13,10,1998,352708637-4
+252,Assault of the Sasquatch (Sasquatch Assault),97,3,2011,813158668-5
+253,Ismael,52,2,2006,571193845-2
+254,Eulogy,50,6,2011,122272217-8
+255,"Cincinnati Kid, The",82,11,1993,609207265-3
+256,The Pool Boys,69,12,2000,487339910-6
+257,Sleuth,63,13,1995,259237731-X
+258,Show Boat,30,14,2001,231267954-X
+259,Initial D (Tau man ji D),73,5,2010,966952740-6
+260,Good Will Hunting,77,4,2003,110365770-4
+261,Doctor X,53,8,2004,935299540-6
+262,Last of the Dogmen,75,1,2012,639825908-4
+263,"Pirates! Band of Misfits, The",2,7,2010,627887453-9
+264,Conman (Du Xia 1999),47,12,2006,154628996-8
+265,Rich and Famous (Gong woo ching),40,8,2005,249449773-6
+266,Red,56,4,1997,047148685-X
+267,Waiting for Happiness (Heremakono),49,9,1991,600610594-2
+268,Naked Ambition: An R Rated Look at an X Rated Industry ,48,14,2007,927123005-1
+269,Prince of the Sun: The Great Adventure of Horus (Taiyou no ouji Horusu no daibouken),96,7,1984,264389908-3
+270,"New Age, The",22,15,1991,316695532-1
+271,Blade of the Ripper,83,11,2004,378320516-6
+272,Tale of Cinema (Geuk jang jeon),5,6,2002,494934338-6
+273,Ong-Bak 2: The Beginning (Ong Bak 2),38,10,2008,440386106-7
+274,National Lampoon's Pucked,74,5,2006,695508055-5
+275,Love Bites,54,3,2008,014400838-6
+276,Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung),98,2,2010,692616542-4
+277,"White Countess, The",79,13,1996,693027769-X
+278,"Adventures of Pluto Nash, The",43,1,1998,709635455-7
+279,Scooby-Doo! WrestleMania Mystery,21,13,1986,364339435-7
+280,Illustrious Corpses (Cadaveri eccellenti),57,6,2006,875937497-7
+281,The Reunion,58,9,1997,026474654-6
+282,"Exterminating Angel, The (Ángel exterminador, El)",12,14,2012,739599665-8
+283,Cold Showers (Douches froides),99,11,2005,484603218-3
+284,Scourge,75,5,2009,828348617-9
+285,"Island, The",53,12,2003,216439378-3
+286,Sniper 2,8,13,2001,498194174-9
+287,Lackawanna Blues,100,15,2003,398189676-9
+288,"Third Miracle, The",71,7,2009,419104812-0
+289,"Devil and Miss Jones, The",21,3,1997,466052699-2
+290,Talladega Nights: The Ballad of Ricky Bobby,9,1,1994,282115214-0
+291,Ninja: Shadow of a Tear,90,8,2012,426490875-2
+292,Limitless,81,2,2005,856973408-5
+293,Paper Birds (Pájaros de papel),63,10,2003,055028621-7
+294,The Man Without a Map,83,4,2004,631213056-8
+295,Moonlight Murder,51,4,2001,518079398-X
+296,"Visitor, The",64,13,2004,340143304-0
+297,The Mysterious Island,19,9,1984,248811656-4
+298,Shelter,60,7,2008,084294066-9
+299,What? (Che?),89,3,1998,660332620-5
+300,No Way Home,55,5,1999,488502206-1
+301,Machete Kills (Machete 2),59,6,2000,082035274-8
+302,Free Enterprise,93,12,2012,400054739-9
+303,Grave Encounters 2,78,11,1999,275862126-6
+304,When Evening Falls on Bucharest or Metabolism,16,2,1998,738868237-6
+305,"Horse in the Gray Flannel Suit, The",61,10,2011,229693361-0
+306,Bethlehem,52,1,1995,376916184-X
+307,Second in Command,77,15,1991,039649872-8
+308,Behind the Burly Q: The Story of Burlesque in America,4,14,2007,537714895-9
+309,Innocence,66,8,2002,413796220-0
+310,Jellyfish (Meduzot),76,7,2007,698315432-0
+311,Family Business,71,6,2006,596493043-3
+312,"Lady with the Dog, The (Dama s sobachkoy)",26,3,1994,008212642-9
+313,Ill-Fated Love (Doomed Love) (Amor de Perdição),65,10,2006,291254232-4
+314,Unstrung Heroes,46,9,2009,276311771-6
+315,"Cry of the Owl, The",56,4,2011,900923398-7
+316,World Trade Center,61,11,2011,562981682-9
+317,Aladdin and the King of Thieves,70,12,2011,246820530-8
+318,"Art of Flight, The",76,15,2007,973304267-6
+319,Longford,83,2,1994,050958762-3
+320,On Top of the Whale (Het dak van de Walvis),100,5,1990,725851680-8
+321,Paris Is Burning,51,7,2001,831889983-0
+322,"Loves of Carmen, The",11,14,2013,281528184-8
+323,Save the Tiger,5,8,1997,784741466-X
+324,"Jewel of the Nile, The",38,13,2000,782528058-X
+325,Female Convict Scorpion: Jailhouse 41 (Joshuu sasori: Dai-41 zakkyo-bô),66,1,1998,441225495-X
+326,"Little Brother, Big Trouble: A Christmas Adventure (Niko 2: Lentäjäveljekset)",29,15,2006,527562596-0
+327,Carlos,18,9,2005,340861151-3
+328,"Strong Man, The",23,11,1993,819722553-2
+329,Declaration of War (La Guerre est Déclarée),60,8,1998,524685396-9
+330,A.K.A. Don Bonus,41,14,2008,147466145-9
+331,Terror is a Man,79,7,2009,933052527-X
+332,Street Fighter: The Legend of Chun-Li,10,1,2005,501184364-5
+333,Eddie,7,6,2008,725584484-7
+334,Jeremiah Johnson,9,13,2001,097095251-1
+335,Caesar (Julius Caesar),15,3,1993,273314408-1
+336,"Disappearance of Haruhi Suzumiya, The (Suzumiya Haruhi no shôshitsu)",90,5,1994,810491331-X
+337,"Horseman on the Roof, The (Hussard sur le toit, Le)",92,12,1990,117014054-8
+338,Schizopolis,20,2,2007,914416514-5
+339,Lakota Woman: Siege at Wounded Knee,59,4,1987,231266890-4
+340,Early Summer (Bakushû),99,10,2001,959601229-0
+341,Never Sleep Again: The Elm Street Legacy,96,3,1994,176871081-3
+342,Eight Legged Freaks,14,13,2007,319246750-9
+343,True Confession,63,6,2007,159027442-3
+344,The Dot and the Line : A Romance in Lower Mathematics,41,5,1989,654918726-5
+345,Rhythm of a Crime (Ritam zlocina),95,3,2008,015876574-5
+346,A Matador's Mistress,86,7,2003,287881637-4
+347,Requiem for a Vampire (Vierges et vampires),4,2,2007,331006769-6
+348,Kiki's Delivery Service (Majo no takkyûbin),55,10,1989,958836299-7
+349,Neighbors,20,12,1998,122570150-3
+350,Intermezzo,85,11,2012,072038379-X
+351,Power Play,79,1,2006,876556454-5
+352,Bullets Don't Argue,83,15,1984,412963289-2
+353,Passionada,96,8,1997,249600661-6
+354,Secrets of Eden,65,4,1995,817850970-9
+355,I Am a Sex Addict,42,14,2009,825309454-X
+356,The Face Behind the Mask,53,9,1958,139968159-1
+357,"Mysterious Island, The",80,12,1998,915629690-8
+358,Double Indemnity,28,1,2011,387897511-2
+359,All These Women (För att inte tala om alla dessa kvinnor),67,2,2002,477096493-5
+360,Broadway Melody of 1936,45,4,2007,218094852-2
+361,My Father the Hero,70,13,1997,276723247-1
+362,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka),52,6,1999,913137977-X
+363,Fun with Dick and Jane,56,8,2010,794265499-0
+364,Kevin Hart: Seriously Funny,98,14,2010,331425286-2
+365,Friday After Next,39,11,2002,309559043-1
+366,The Swedish Moment,31,5,2004,353407594-3
+367,"Big Bad Swim, The",99,3,1986,846224575-3
+368,What Price Glory,64,9,1972,584638965-1
+369,Fido,73,15,1985,732960496-8
+370,Brick,25,10,2009,475907010-9
+371,At Five in the Afternoon (Panj é asr),100,7,2000,699483448-4
+372,"Three Caballeros, The",34,11,2006,471087978-8
+373,Whistle Down the Wind,33,10,2007,273114042-9
+374,"Abyss, The",12,3,2012,823620832-X
+375,Down by Law,15,12,2006,715711726-6
+376,"Kind of Loving, A",87,2,2004,831898929-5
+377,Direct Contact,21,8,2011,531807093-0
+378,"Question of Silence, A (De stilte rond Christine M.)",73,4,1990,637964929-8
+379,American Samurai (Ninja: American Samurai),28,7,2013,190311197-8
+380,March of the Wooden Soldiers (a.k.a. Babes in Toyland),63,11,2011,352763568-8
+381,Miss Météo,27,5,2006,359470251-0
+382,Ong-Bak: The Thai Warrior (Ong Bak),56,14,2010,209895827-7
+383,Legend of the Fist: The Return of Chen Zhen (Jing wu feng yun: Chen Zhen),89,15,2009,132425680-X
+384,Never Sleep Again: The Elm Street Legacy,49,13,2010,497969412-8
+385,Bravo Two Zero ,55,1,2003,411969798-3
+386,Woody Allen: A Documentary,65,6,2002,389375826-7
+387,George and the Dragon,86,9,1975,191829280-9
+388,"Eagle, The",94,15,1987,471513107-2
+389,Zero Tolerance (Noll tolerans),11,6,1992,876801892-4
+390,Love Actually,8,12,1999,055148327-X
+391,Garfield's Halloween Adventure,98,5,1994,011028274-4
+392,The Missouri Breaks,78,11,2000,320989095-1
+393,Moving,14,4,2007,230423978-1
+394,Crime After Crime,46,7,1997,626251441-4
+395,Barefoot,16,8,2006,141925126-0
+396,"Best Man Holiday, The",85,10,2003,307871047-5
+397,Not Another Happy Ending,36,1,2002,389552818-8
+398,Devdas,1,3,2012,508470110-7
+399,Bliss,2,2,2002,290575348-X
+400,"Roaring Twenties, The",82,13,1992,675269179-7
+401,Chill Out! (Descongélate!),93,14,2003,523998201-5
+402,When I Walk,29,9,1977,990427568-8
+403,Disgrace,30,13,2002,936180952-0
+404,"Fine Mess, A",24,4,1997,659120387-7
+405,No One Dies in Lily Dale,81,14,2011,291263074-6
+406,This Filthy World,15,3,2012,854349811-2
+407,"Thing About My Folks, The",58,7,1996,766608079-4
+408,"Lesser Blessed, The",72,1,2010,098384939-0
+409,Experience Preferred... But Not Essential,42,8,2005,086228856-8
+410,Richard III,98,15,1995,007681394-0
+411,Great Expectations,43,5,1990,207271410-9
+412,"Shiro Amakusa, the Christian Rebel (Amakusa Shiro tokisada)",62,9,2013,708846725-9
+413,"Navigator, The",23,13,1991,389116342-8
+414,Nightwatch (Nattevagten),50,2,1998,211128862-4
+415,"Sun Shines Bright, The",22,11,2012,711127129-7
+416,Save the Tiger,8,10,2005,426054101-3
+417,Jerry Seinfeld: 'I'm Telling You for the Last Time',84,6,1987,586722992-0
+418,Two Men in Manhattan (Deux hommes dans Manhattan),34,12,2007,541531501-2
+419,Female,59,2,2012,073025329-5
+420,I Am Ali,48,7,1994,379380604-9
+421,Angels Over Broadway,47,5,2006,982482998-9
+422,Herbie Rides Again,87,11,1992,898661836-2
+423,My Life So Far,74,12,2010,823047920-8
+424,Small Town of Anara (Qalaqi Anara),38,6,1997,342556643-1
+425,Shaolin Kung Fu Mystagogue (Da mo mi zong),40,10,2009,929713067-4
+426,Schultze Gets the Blues,63,13,1996,702630279-5
+427,Four Days in July,97,3,1997,564127098-9
+428,Waiting to Exhale,89,14,1989,944550949-8
+429,Deconstructing Harry,35,9,1992,434034375-7
+430,Frankenstein Meets the Wolf Man,80,8,2011,298642215-2
+431,"Immigrant, The",46,4,2007,013043213-X
+432,American Boy: A Profile of: Steven Prince,95,1,1990,902491668-2
+433,Sonatine (Sonachine),12,15,2005,446674440-8
+434,Black Sea,85,14,2009,722087446-4
+435,Film ist a Girl & a Gun,76,4,1990,472192256-6
+436,"Brasher Doubloon, The",87,14,1985,186860542-6
+437,Hogfather (Terry Pratchett's Hogfather),35,2,2003,417414567-9
+438,Superman/Doomsday ,20,9,2010,801087699-2
+439,Ainoat Oikeat,59,6,2005,551828891-3
+440,All the Little Animals,16,7,2004,122767118-0
+441,"Maze, The",4,1,2006,767734258-2
+442,Russendisko,67,5,2012,816056911-4
+443,"Hurt Locker, The",9,15,1997,829203871-X
+444,Pharaoh's Curse,44,3,2012,415683268-6
+445,Head Office,43,8,1997,075944819-1
+446,Journey to the Center of the Earth,80,13,1991,777512659-0
+447,Sassy Pants,99,12,2011,842484530-7
+448,A Night at the Movies: The Suspenseful World of Thrillers,69,10,1986,714679945-X
+449,Caliber 9,63,11,2005,505218258-9
+450,Tune in Tomorrow...,58,4,1984,537726244-1
+451,"Song Remains the Same, The",46,9,1994,057678253-X
+452,"Immortals, The",15,11,2011,992294603-3
+453,"Other Guys, The",56,12,2004,951586300-7
+454,Faithless,92,14,2010,174475446-2
+455,Bernice Bobs Her Hair,66,2,1992,472538074-1
+456,My Love Has Been Burning (Waga koi wa moenu),75,8,2008,765426110-1
+457,Cell Count,27,10,1987,585717497-X
+458,Telling Lies in America,39,1,1997,277681988-9
+459,Austin Powers: International Man of Mystery,45,5,2002,047380199-X
+460,The Real Glory,47,15,1999,718032176-1
+461,"Dark at the Top of the Stairs, The",36,3,2006,074591838-7
+462,My Cousin Rachel,88,7,1991,387297461-0
+463,"Pan's Labyrinth (Laberinto del fauno, El)",90,6,2006,921663759-5
+464,Captains Courageous,98,13,1969,661876056-9
+465,Blazing Guns,40,12,1995,334089458-2
+466,To Be Takei,83,1,2006,849750676-6
+467,"Land Without Bread (Hurdes, tierra sin pan, Las)",54,9,2010,052565941-2
+468,I'm Going Home (Je rentre à la maison),85,7,1997,044833576-X
+469,Garage,50,2,1998,843450275-5
+470,Red Eye,67,10,1994,026735407-X
+471,Agata and the Storm (Agata e la tempesta),91,12,2005,104246149-X
+472,Monday Night Mayhem,48,8,2003,322318445-7
+473,Airspeed,36,13,1993,440500161-8
+474,Kids of the Round Table,69,15,1968,378276955-4
+475,Wolfsburg,52,3,1996,886294881-6
+476,Ginger Snaps,51,14,2013,845866033-4
+477,"Hard, Fast and Beautiful",14,5,1997,190238302-8
+478,Extreme Movie,29,6,1999,396806741-X
+479,"Prime of Miss Jean Brodie, The",62,11,1998,863354872-0
+480,Looking for Palladin,77,4,2000,146603121-2
+481,Lovely to Look At,64,6,1990,789467316-1
+482,When the Road Bends: Tales of a Gypsy Caravan,53,2,2002,769082635-0
+483,Eye In The Sky (Gun chung),39,5,1989,476907151-5
+484,"Deadly Trackers, The",22,15,2005,275765548-5
+485,Aaja Nachle,26,4,2012,678666159-9
+486,Strange Brew,3,1,2011,498515685-X
+487,Deep Rising,55,10,2000,824434053-3
+488,"Fat, Sick & Nearly Dead 2",70,8,1992,917546060-2
+489,"Son of No One, The",82,14,2005,538774208-X
+490,Shuttle,96,9,2007,884741162-9
+491,Mighty Morphin Power Rangers: The Movie,92,7,1998,518628180-8
+492,War Dance,13,12,1992,315370871-1
+493,Repentance (Monanieba),93,13,1995,559071563-6
+494,Andre,23,3,1987,319883791-X
+495,"Grifters, The",75,11,2003,215220245-7
+496,"Girl Cut in Two, The (Fille coupée en deux, La)",84,6,1997,328494683-7
+497,Picnic on the Grass (Le déjeuner sur l'herbe),10,8,1992,600330577-0
+498,Grace,3,12,2004,164817919-3
+499,Loosies,87,3,2010,213152205-3
+500,Law Abiding Citizen,55,2,2009,577895862-5
+501,"Dead Pool, The",25,5,2008,662513504-6
+502,"Life is a Bed of Roses (Vie est un roman, La)",44,6,1995,682577325-9
+503,"Education of Little Tree, The",56,4,1998,485621361-X
+504,"Brief History of Time, A",69,13,1998,306325981-0
+505,Lady in Cement,28,10,2005,276641159-3
+506,"Ten Commandments, The",58,15,1996,371016147-9
+507,"Take, The",95,1,1999,401689634-7
+508,"Legend of Bagger Vance, The",92,9,1985,819680344-3
+509,If I Were King,27,7,2009,493817140-6
+510,"Yellow Sea, The (a.k.a. The Murderer) (Hwanghae)",60,11,2004,596927747-9
+511,Urban Ghost Story,33,14,1993,987406849-3
+512,Wheels on Meals (Kuai can che),72,11,2005,359717272-5
+513,Meatballs Part II,88,2,1997,863460005-X
+514,Lili's Apron,20,14,2010,077209367-9
+515,"Lawless Street, A (Marshal of Medicine Bend)",24,8,2007,490836717-5
+516,Closed Circuit,100,13,2004,811918878-0
+517,Dark Mirror,48,3,2004,384919971-1
+518,Cruel Intentions 3,77,6,2010,388259498-5
+519,"Year One, The (L'an 01)",61,1,2007,172978879-3
+520,That Hamilton Woman,17,5,1999,870080699-4
+521,Or (a.k.a. My Treasure),43,15,1994,583236602-6
+522,RV,18,12,2007,884810050-3
+523,Prince Valiant,9,10,2009,352330032-0
+524,Levottomat 3,81,7,1996,750520567-6
+525,Neds,52,9,1997,877947837-9
+526,Please Vote for Me,93,4,1993,550820492-X
+527,Young People Fucking (a.k.a. YPF),40,3,1987,572011678-8
+528,Sympathy for Mr. Vengeance (Boksuneun naui geot),81,6,1987,665868477-4
+529,Jade Warrior (Jadesoturi),40,11,1993,075936312-9
+530,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha),9,7,2003,086909141-7
+531,Time in the Minors,3,3,1988,280093168-X
+532,"Stepfather, The",45,4,2000,812874994-3
+533,Dirty Dancing: Havana Nights,20,2,2006,174388419-2
+534,Ween Live in Chicago,96,10,1997,999245181-5
+535,Chaos (Kaosu),50,13,2004,112817583-5
+536,"Bodyguard, The",78,9,1997,256429991-1
+537,Lightning Strikes Twice,64,8,1994,339251718-6
+538,"Bound by Honor (a.k.a. Blood In, Blood Out)",51,14,1998,792671727-4
+539,Looking for Lenny ,4,12,2007,266075851-4
+540,Interrupted Melody,72,1,2010,322842243-7
+541,V/H/S/2,19,5,2009,531759463-4
+542,"Open Road, The",83,15,2012,607019028-9
+543,"Other Side of Bollywood, The",52,1,1998,324210639-3
+544,Gosford Park,23,10,2004,312514389-6
+545,Nico Icon,16,6,2004,539872830-X
+546,"Postman Always Rings Twice, The",34,2,2006,967785233-7
+547,Loaf and Camouflage,82,5,2013,660148637-X
+548,Dust,94,15,2012,124566021-7
+549,Seven Samurai (Shichinin no samurai),43,12,2008,952897357-4
+550,Dylan Moran: Monster,88,14,2003,320695931-4
+551,Stalin,41,7,1995,570801429-6
+552,"House of the Spirits, The",60,8,2008,246740637-7
+553,First Daughter,15,3,2005,449866997-5
+554,Nights and Weekends,63,4,2006,198106447-8
+555,"Manzanar Fishing Club, The",17,13,2003,985064800-7
+556,Love's Deadly Triangle: The Texas Cadet Murder,100,9,1996,171504091-0
+557,"Merry Widow, The",98,11,1999,701763617-1
+558,"O-Bi, O-Ba - The End of Civilization (O-bi, O-ba - Koniec cywilizacji)",74,8,2010,672900119-4
+559,"Bride from Hades, The (Botan-dôrô) (Peony Lantern) (Tale of Peonies and Lanterns, A)",1,14,2012,939791841-9
+560,Port of Flowers,94,15,1987,126032118-5
+561,Shinjuku Incident (San suk si gin),82,10,2009,196634162-8
+562,Rush Hour,89,6,2006,686161618-4
+563,Li'l Abner,72,13,1999,833151613-3
+564,"War You Don't See, The",15,9,2005,971069107-4
+565,"Class, The (Klass)",16,11,1996,579359805-7
+566,Week-End in Havana,52,3,2004,606697043-7
+567,13 Rue Madeleine,88,4,2004,621173889-7
+568,Don Jon,58,8,2007,489286076-X
+569,Suspect,80,7,2005,562511967-8
+570,Separate Tables,21,12,1984,179694551-X
+571,Bloomington,5,1,2009,801756277-2
+572,"Free Soul, A",18,5,2011,597888082-4
+573,The Cave of the Golden Rose,76,2,1994,554797090-5
+574,Playing 'In the Company of Men' (En jouant 'Dans la compagnie des hommes'),11,7,2009,216864694-5
+575,Nine Deaths of the Ninja,97,5,2003,130881675-8
+576,Hexed,7,12,1993,883008604-5
+577,Orderers (Les ordres),33,10,2006,497121390-2
+578,"Cry, The (Grido, Il)",43,14,1989,451682522-8
+579,Secret,61,8,1984,970396310-2
+580,Deuce Bigalow: European Gigolo,45,1,2002,021647813-8
+581,"Prefab People, The (Panelkapcsolat)",70,9,2001,072617353-3
+582,Bloodhounds of Broadway,49,6,2012,334187770-3
+583,Defendor,96,4,1992,464932009-7
+584,Dolls,8,13,2001,849744243-1
+585,Dark Command,34,11,1992,128887105-8
+586,Straight Shooting,37,2,2002,513972818-4
+587,Hot Pepper,3,3,2001,354915915-3
+588,Daddy Nostalgia (Daddy Nostalgie),6,15,2009,948518603-7
+589,I Am Santa Claus,56,4,2003,298232104-1
+590,Into the Wild,17,7,1999,221695517-5
+591,Same Same But Different,34,14,1999,211215690-X
+592,"Trip, The",53,11,1995,689404698-0
+593,Hoop Realities,20,3,2007,126890949-1
+594,"Crimson Rivers, The (Rivières pourpres, Les)",7,2,1999,323710762-X
+595,"Pride of St. Louis, The",33,8,1994,283329195-7
+596,"Hireling, The",79,10,1998,312271374-8
+597,Eddie Izzard: Circle,59,15,1992,256530792-6
+598,Azumi 2: Death or Love,94,4,2011,205292704-2
+599,Cinderella II: Dreams Come True,1,6,2005,225286792-2
+600,Branded to Kill (Koroshi no rakuin),40,12,1997,128421214-9
+601,"Power of Kangwon Province, The (Kangwon-do ui him)",61,9,1994,429895240-1
+602,Legends of the Canyon,63,13,2002,382660700-7
+603,Kingdom of Heaven,80,5,1992,472434306-0
+604,Stranger Than Paradise,52,1,2010,759295730-2
+605,Circle of Friends,54,9,2001,784746864-6
+606,"Gun in Betty Lou's Handbag, The",64,8,2008,855112980-5
+607,Pumpkinhead II: Blood Wings,25,2,2011,536625170-2
+608,"Chorus, The (Hamsarayan)",38,7,1994,350287269-4
+609,Satan's Little Helper,62,5,2006,659722643-7
+610,"Third Man, The",84,13,1993,750659634-2
+611,Fred: The Movie,98,3,2001,783191793-4
+612,Hannibal Rising,44,15,1996,587665428-0
+613,Julie & Julia,12,14,2000,211228979-9
+614,Fuse (Gori vatra),82,1,2007,787036967-5
+615,"Squaw Man, The",86,12,1979,292784312-0
+616,"Music Box, The",31,4,2008,754752122-3
+617,Airplane!,75,6,2007,697078225-5
+618,"City of Women, The (Città delle donne, La)",37,10,2008,506704152-8
+619,Bitter Victory,83,11,2009,197318855-4
+620,In the Hands of the Gods,56,6,1995,657863258-1
+621,Whatever Happened to Aunt Alice?,88,2,1969,789407541-8
+622,Barefoot in the Park,38,13,2000,194033269-9
+623,"Couch Trip, The",35,3,2013,680335412-1
+624,Mahjong (Ma jiang),21,9,2009,854179021-5
+625,"Unholy Three, The",80,5,1995,051545967-4
+626,Women Art Revolution,12,7,2007,960879643-1
+627,"Midnight Meat Train, The",1,14,1994,722439184-0
+628,"Making of a Legend: Gone with the Wind, The",2,11,2006,422615242-5
+629,Bowery at Midnight,46,6,2010,524832193-X
+630,Fubar,8,8,2012,112976188-6
+631,House of Cards,22,10,2001,196138493-0
+632,Get on the Bus,75,15,1995,794278107-0
+633,Spring,65,4,2009,402594606-8
+634,Real Fiction (Shilje sanghwang),43,12,1998,718097092-1
+635,Law of the Lawless (Brigada),24,1,1992,648188392-X
+636,"Wedding Weekend, The (Sing Now or Forever Hold Your Peace) (Shut Up and Sing)",9,3,1987,713095018-8
+637,Pearl Jam Twenty,81,1,2009,499371290-1
+638,Company of Heroes,82,7,1993,262167109-8
+639,Super Troopers,32,2,2004,985370068-9
+640,That Obscure Object of Desire (Cet obscur objet du désir),99,6,2010,414143678-X
+641,Shock,97,15,2007,247385602-8
+642,1000 Journals,52,9,1993,652594840-1
+643,"Lawless, The",18,5,2012,016482348-4
+644,Zatoichi Challenged (Zatôichi chikemuri kaidô) (Zatôichi 17),86,11,2002,497666397-3
+645,Too Many Husbands,5,12,1994,682214999-6
+646,Foo Fighters: Back and Forth,64,10,1990,945704763-X
+647,Seven (a.k.a. Se7en),39,8,1998,743657522-8
+648,Resident Evil: Extinction,73,13,2008,877624514-4
+649,Samsara,48,4,1987,963946947-5
+650,"Laughing Woman, The (Frightened Woman, The) (Femina ridens)",34,14,2006,920197433-7
+651,Abbott and Costello Meet Captain Kidd,45,7,1998,528054849-9
+652,"Comebacks, The",98,10,2006,706736930-4
+653,Up at the Villa,39,8,1984,210638495-5
+654,"Objective, Burma!",87,4,2001,505189061-X
+655,Mystery Street,92,1,2010,902789243-1
+656,Roberto Succo,93,9,1998,569463765-8
+657,"Devil Is a Woman, The",7,15,2012,739750191-5
+658,Noah's Ark,95,6,2013,248369373-3
+659,Rare Exports: A Christmas Tale (Rare Exports),62,11,2008,147600491-9
+660,Zeitgeist: The Movie,55,12,1992,574301711-5
+661,Volga - Volga,97,5,1974,236625605-1
+662,Police,73,14,1999,568513075-9
+663,Mary Reilly,85,3,1990,320486994-6
+664,Times and Winds (Bes vakit),11,2,2004,854133415-5
+665,Betty Boop's Hallowe'en Party,50,13,1998,361779003-8
+666,Ice Age Columbus: Who Were the First Americans?,47,7,2009,045805570-0
+667,Breaking and Entering,21,10,1990,391667385-8
+668,"Desert of Forbidden Art, The",91,5,2012,813286504-9
+669,Jackass: The Movie,76,15,2012,049879693-0
+670,Holy Wars,100,4,1983,269648915-7
+671,"Marrying Man, The (Too Hot to Handle)",18,9,2006,421522860-3
+672,Children On Their Birthdays,79,3,1992,345212452-5
+673,All Quiet on the Western Front,4,7,2008,018918218-0
+674,Revolutionary Road,54,6,2007,047241787-8
+675,The Spiritual Boxer,69,11,1990,885002789-3
+676,Window to Paris (Okno v Parizh),86,12,1998,227138575-X
+677,Elvis and Anabelle,30,2,2002,616982994-X
+678,As Far As My Feet Will Carry Me (So weit die Füße tragen),63,13,2002,620137064-1
+679,Adopted,89,8,2012,279725562-3
+680,Mad Monster Party?,72,1,1999,145273928-5
+681,Book of Love,41,14,2010,924502861-5
+682,This Girl's Life,29,14,2012,137237930-4
+683,Paycheck,16,15,1992,086876300-4
+684,Capone,66,10,2010,069807526-9
+685,"Dexter the Dragon & Bumble the Bear (a.k.a. Dragon That Wasn't (Or Was He?), The) (Als je begrijpt wat ik bedoel)",83,2,1988,113876749-2
+686,"Little Romance, A",48,9,2010,000318548-6
+687,Backlight,81,1,2002,262612480-X
+688,"Escape Artist, The",96,11,2012,236221183-5
+689,Kinsey,23,12,2008,462862005-9
+690,Zorba the Greek (Alexis Zorbas),65,5,1997,988119846-1
+691,"Comedy of Power (Ivresse du pouvoir, L')",88,8,2000,536621194-8
+692,"Grapes of Wrath, The",47,6,2010,811206299-4
+693,"Child I Never Was, The (Leben lang kurze Hosen Tragen, Ein)",69,3,2000,297330842-9
+694,Toy Story Toons: Small Fry,2,13,1992,714030366-5
+695,To Be or Not to Be,10,4,2001,814971849-4
+696,"Flying Leathernecks, The",59,14,1993,633831871-8
+697,Smilin' Through,40,7,1986,818772330-0
+698,What Happened Was...,97,9,2006,487818767-0
+699,Zone 39,100,6,2000,183027374-4
+700,"Show, The",53,5,2000,463648776-1
+701,Ninja Cheerleaders,18,2,1993,107748164-0
+702,Volcano High (Whasango),57,12,1996,126088344-2
+703,Daria: Is It College Yet?,52,14,1998,808535880-8
+704,Beyond (Svinalängorna),44,4,1994,204132471-6
+705,Jack Goes Boating,58,13,2009,497346779-0
+706,Sins of My Father,54,8,2006,439891672-5
+707,Sex Ed,6,7,1985,291341603-9
+708,Lost Boys: The Tribe,91,3,2007,803453999-6
+709,7 Boxes (7 cajas),45,1,1997,669367196-9
+710,Nancy Goes to Rio,71,10,2006,724370625-8
+711,Edison Force (a.k.a. Edison),55,15,1999,481740268-7
+712,Wide Awake,61,11,1994,297068536-1
+713,Ice Poison,28,7,2008,569136865-6
+714,Brainstorm,96,6,2003,386221177-0
+715,"Cat in the Hat, The",44,7,2000,760888158-5
+716,Riders of Destiny,90,5,2012,077468057-1
+717,Immortel (ad vitam) (Immortal),62,11,1986,656261878-9
+718,"Boys in the Band, The",6,3,1992,159873541-1
+719,6954 Kilometriä Kotiin,54,4,1998,484852379-6
+720,Seven Days in Utopia,31,15,1999,183511396-6
+721,Wild Oranges,91,8,1984,072421756-8
+722,"Star Is Born, A",75,9,1984,899148719-X
+723,It All Starts Today (Ça commence aujourd'hui),78,1,1997,093204576-6
+724,Roberta,57,13,2008,187377843-0
+725,Center Stage,92,10,2007,371411676-1
+726,"Alan Smithee Film: Burn Hollywood Burn, An",61,2,2010,658453407-3
+727,Renoir,74,12,1979,432222192-0
+728,Sorority House Massacre,36,14,1998,037869922-9
+729,Wrong Turn 2: Dead End,18,12,2003,802057429-8
+730,That Obscure Object of Desire (Cet obscur objet du désir),73,3,1998,684167783-8
+731,Emmet Otter's Jug-Band Christmas,69,7,2001,603832625-1
+732,Excuse Me for Living,49,15,1994,876430993-2
+733,Applause,15,4,1987,281347670-6
+734,Nadine,72,1,2011,151760688-8
+735,Dr. Goldfoot and the Bikini Machine,50,14,2011,530827366-9
+736,Planet Hulk,20,10,1998,417390620-X
+737,La nación clandestina,63,11,2009,573841721-6
+738,"Wrong Man, The",99,13,2011,891853410-8
+739,300: Rise of an Empire,70,9,1988,121608039-9
+740,Is the Man Who Is Tall Happy?,87,6,2000,080580404-8
+741,Bugmaster (Mushishi),28,2,2009,223968579-4
+742,"Moon Warriors, The (Zhan shen chuan shuo)",5,8,1986,049239508-X
+743,Aakrosh,14,5,1995,326887976-4
+744,"Dinosaur Project, The",98,13,2009,225961609-7
+745,Ryan,23,6,2000,349428311-7
+746,Nekromantik 2,48,15,2011,386473101-1
+747,"Secret Life of Girls, The",99,12,2006,186107197-3
+748,"Wild Bunch, The",46,9,2001,623068972-3
+749,Recipe for Love,98,11,1993,330751164-5
+750,Knockin' on Heaven's Door,12,10,2007,581333536-6
+751,"Black Magic Rites & the Secret Orgies of the 14th Century (Riti, magie nere e segrete orge nel trecento...)",49,8,2002,876370721-7
+752,"Long Dark Hall, The",33,2,2009,829994138-5
+753,Doogal,57,1,2008,323360354-1
+754,Fear Island,73,14,1999,715039916-9
+755,"What's in a Name (Prénom, Le)",52,3,2006,722412521-0
+756,Amistad,61,4,2006,789227771-4
+757,"Crimson Rivers 2: Angels of the Apocalypse (Rivières pourpres II - Les anges de l'apocalypse, Les)",42,13,1998,966851584-6
+758,"Long Way Home, The",69,5,2003,906618599-6
+759,Filming 'Othello',54,7,2002,012221582-6
+760,The Mark of Cain,27,4,1995,536855246-7
+761,"Tomorrow, When the War Began",55,5,2006,259436878-4
+762,Sliver,91,15,2013,412392379-8
+763,When Willie Comes Marching Home,79,11,1988,507169759-9
+764,Stalker,59,1,2009,107727137-9
+765,Lucky Luke: The Ballad of the Daltons,74,8,2003,790305623-9
+766,Child of God,4,7,1995,439868052-7
+767,Gen-Y Cops (Te jing xin ren lei 2) (Gen-X Cops 2: Metal Mayhem) (Metal Mayhem),36,2,2006,703535714-9
+768,"See No Evil, Hear No Evil",1,3,1994,852926769-9
+769,Peter Ibbetson,11,12,2002,731577351-7
+770,Little Miss Marker,25,13,2005,796522748-7
+771,"Sergeant, The",88,6,2000,984936213-8
+772,No Nukes,80,9,2002,882832358-2
+773,Objectified,90,14,2007,866466428-5
+774,Ugetsu (Ugetsu monogatari),30,10,2000,719873655-6
+775,S.O.S. Eisberg,18,15,1999,905495256-3
+776,Aziz Ansari: Live at Madison Square Garden,57,7,2007,456415059-6
+777,Marjoe,88,4,2008,129191788-8
+778,"Tin Drum, The (Blechtrommel, Die)",49,14,1999,761526894-X
+779,Are We There Yet?,28,13,2007,090683438-4
+780,"Cell 2, The",73,8,2000,991322718-6
+781,Pathetic Fallacy (Ajantrik),68,11,1987,897079782-3
+782,Lake Placid,26,1,1987,838635037-7
+783,Lawrence of Arabia,36,3,2008,693944924-8
+784,Clash by Night,77,5,2010,849421490-X
+785,Contraband,74,2,1993,315924806-2
+786,Crime After Crime,33,10,2006,912408774-2
+787,3 Little Ninjas and the Lost Treasure,12,15,2004,944575121-3
+788,Alyce Kills,10,9,1999,891558550-X
+789,Puppet Master III: Toulon's Revenge,99,6,2005,637636727-5
+790,Three (a.k.a. 3),66,12,2002,714532255-2
+791,Belly 2: Millionaire Boyz Club,7,13,1995,608529793-9
+792,"United States of Leland, The",67,3,2012,668973800-0
+793,"Christmas Carol, A",61,6,2007,207983825-3
+794,Walking Tall,16,10,1994,496176126-5
+795,"Beast, The",78,11,1998,484569783-1
+796,Five Dedicated to Ozu,71,9,1967,406894658-2
+797,"Price of Forgiveness, The (Ndeysaan)",31,12,1998,290826605-9
+798,Rocky V,18,8,2009,998042789-2
+799,Secret Reunion (Ui-hyeong-je),13,5,2003,949412944-X
+800,How About You...,40,15,2003,475096874-9
+801,"Town Called Hell, A",85,7,2002,955743043-5
+802,Arachnoquake,39,1,1993,152972761-8
+803,Men Seeking Women,76,14,1996,513558985-6
+804,"Child, The (L'enfant)",92,2,2010,706831609-3
+805,Milky Way (Tejút),70,4,2002,825713594-1
+806,Company: Original Cast Album,47,12,1999,810675046-9
+807,Live from Baghdad,30,1,1984,401922345-9
+808,"Three Musketeers, The",59,10,2005,078200993-X
+809,Waco: A New Revelation,94,15,1999,204565123-1
+810,"Surrender, Dorothy",85,2,2007,478331600-7
+811,Harishchandrachi Factory,81,13,1996,743889490-8
+812,Sweet Land,77,5,2012,747816058-1
+813,"November Man, The",4,4,2009,456607797-7
+814,"Above the Street, Below the Water (Over gaden under vandet)",19,8,2003,417830355-4
+815,Bloody Bloody Bible Camp,45,14,1990,613413096-6
+816,"Liability, The",26,7,2011,716849608-5
+817,Who Framed Roger Rabbit?,37,9,2002,175876710-3
+818,"Resurrected, The",29,3,1994,393594327-X
+819,"Seagull's Laughter, The (Mávahlátur)",55,12,2003,368885935-9
+820,Two Rode Together,10,6,1996,105771873-4
+821,"I Hate Mondays, (Nie lubie poniedzialku)",82,11,2005,843709569-7
+822,"Bigger, Stronger, Faster*",25,15,1994,627670780-5
+823,"Claymation Christmas Celebration, A",72,10,2011,687584011-1
+824,Black and White in Color (Noirs et blancs en couleur),69,6,2007,585006873-2
+825,How to Succeed in Business Without Really Trying,57,9,1986,645694155-5
+826,"Last of Sheila, The",1,14,2002,451978167-1
+827,Viva Cuba,88,4,2009,322006106-0
+828,Panic Button,64,3,2004,736088306-7
+829,#chicagoGirl: The Social Network Takes on a Dictator,7,13,1995,011734010-3
+830,Teenage Mutant Ninja Turtles: Turtles Forever,56,11,2000,040642666-X
+831,Kick-Ass,54,1,1994,323082229-3
+832,The Land Before Time VIII: The Big Freeze,6,5,2011,168414228-8
+833,Pale Rider,90,2,2005,692495078-7
+834,Are We Done Yet?,62,7,2003,448448753-5
+835,"Pagemaster, The",66,8,1990,831627679-8
+836,Love in the Time of Hysteria (Sólo con tu pareja),11,12,1993,539433339-4
+837,Reality,27,14,2006,490817234-X
+838,More American Graffiti,50,13,2003,858149143-X
+839,Outbreak,1,14,2001,935658832-5
+840,"Lonely Place to Die, A",11,8,1967,111683026-4
+841,Gunfighters,43,2,2003,787630608-X
+842,Kidnap Syndicate,54,6,2010,748102486-3
+843,Manhunter,33,10,1994,228196341-1
+844,"Last Mistress, The (vieille maîtresse, Une)",6,3,2004,423008775-6
+845,Hoffman,55,7,2006,115897838-3
+846,Stranger Than Paradise,53,9,1998,515013173-3
+847,DeadHeads,87,15,1996,059295120-0
+848,Five Graves to Cairo,23,12,1998,387888966-6
+849,Something Like Happiness (Stestí),77,4,2008,921826658-6
+850,"Hands of Orlac, The (Orlacs Hände)",94,1,2009,914805572-7
+851,"Immature, The (Immaturi)",47,5,1994,752315280-5
+852,Fast Times at Ridgemont High,31,11,1998,471527949-5
+853,"Phantom of the Opera, The",99,1,2002,801224561-2
+854,Deathstalker II,64,11,2002,681117728-4
+855,Champion,9,9,2001,507416149-5
+856,American: The Bill Hicks Story,98,15,2007,975182022-7
+857,Aces High,13,2,2010,565153093-2
+858,My Summer of Love,38,6,1978,830146651-0
+859,Pirates of the Caribbean: Dead Man's Chest,76,5,2008,495930646-7
+860,"Revenant, The",72,12,2009,653964593-7
+861,Mr. Blandings Builds His Dream House,69,14,2008,981353936-4
+862,"Artist, The (El Artista)",78,8,2008,194863059-1
+863,Kivski Freski,2,3,2002,048976387-1
+864,Serial,44,7,2002,244160681-6
+865,You've Got Mail,56,13,1997,409194565-1
+866,One Flew Over the Cuckoo's Nest,40,10,2001,190485269-6
+867,"Last Ferry, The (Ostatni prom)",18,4,2006,266930533-4
+868,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",61,2,2001,289408646-6
+869,"Violent City (Family, The) (Città violenta)",68,13,1995,398024088-6
+870,R-Point (Arpointeu),55,9,2001,872458634-X
+871,Film Geek,5,5,1995,428595342-0
+872,"Wild, The",17,3,2012,283784234-6
+873,Charlie Wilson's War,26,15,1995,764442295-1
+874,S.O.S. Eisberg,61,14,2004,851480557-6
+875,Young at Heart,97,6,1995,126289272-4
+876,Nemesis 2: Nebula,63,7,2009,074370938-1
+877,Shameless (Maskeblomstfamilien ),31,11,1999,088979412-X
+878,"Home of Our Own, A",11,1,2008,068797871-8
+879,"Filth and the Fury, The",27,8,2006,381451010-0
+880,Home Movie,96,10,2000,291151508-0
+881,Man of the East,48,2,1989,332157934-0
+882,Will It Snow For Christmas? (Y'aura-t-il de la neige à Noël?),86,4,2005,865368575-8
+883,My Joy (Schastye moe),8,12,2011,794398617-2
+884,[REC] 4: Apocalypse,54,12,2009,990856237-1
+885,"Pickle, The",71,8,2008,749353355-5
+886,Backlash,83,3,2000,572693399-0
+887,Skidoo,6,14,2011,352206930-7
+888,Keep the River on Your Right: A Modern Cannibal Tale,22,15,2009,014428333-6
+889,Full Eclipse,65,11,2009,911917864-6
+890,One of Our Aircraft Is Missing,21,10,2011,145845869-5
+891,In a Lonely Place,98,9,1990,619367482-9
+892,Bushwhacked,56,4,2000,594151075-6
+893,Who'll Stop the Rain,87,2,2006,831682967-3
+894,Full of It,82,6,2006,083526796-2
+895,"City of No Limits, The (la ciudad sin límites, En)",52,13,2010,869013516-2
+896,Super 8,33,7,1998,252380015-2
+897,You Killed Me First,92,1,2006,192637552-1
+898,"Sunfish, The (Klumpfisken)",4,5,2003,387435323-0
+899,Last Call at the Oasis,19,10,1998,883040725-9
+900,Sunrise at Campobello,35,10,1988,037618496-5
+901,Perifery (Härmä),33,9,1989,206050619-0
+902,Across the Bridge,34,5,2012,979478124-X
+903,Daar,75,4,1973,686583193-4
+904,Bohemian Eyes (Boheemi elää - Matti Pellonpää),56,7,1990,019506092-X
+905,"Journey of August King, The",82,2,2006,871215101-7
+906,Braddock: Missing in Action III,85,13,1993,340662154-6
+907,Ice Age Columbus: Who Were the First Americans?,63,3,1992,453714221-9
+908,Sherlock Holmes and the Masks of Death,42,6,1988,078039989-7
+909,Bachelorette,7,14,2008,524082357-X
+910,Holidays by the Sea (Ni à vendre ni à louer),47,12,1996,775929813-7
+911,Railroaded!,14,11,2005,401842866-9
+912,Desperado,74,15,2012,254263242-1
+913,Ruby Cairo,39,1,2006,208433890-5
+914,Aerial Gunner,45,8,1993,346635807-8
+915,Lord Jim,36,13,2003,662589408-7
+916,Comanche Territory (Territorio comanche),61,1,1991,267476145-8
+917,"Chicken, the Fish and the King Crab, The (El pollo, el pez y el cangrejo real)",89,3,2011,029295668-1
+918,Crime Wave,67,9,2009,753120111-9
+919,Twilight of the Ice Nymphs,78,4,1994,349852228-0
+920,"Chair, The",25,5,2012,710936923-4
+921,Secret Things (Choses secrètes),76,8,2008,205753194-5
+922,Fagbug,92,7,2012,585170576-0
+923,Reality,24,14,1986,911660209-9
+924,"Last Seduction II, The",13,6,2007,330760506-2
+925,Jeepers Creepers 2,44,11,2002,333898758-7
+926,A mí las mujeres ni fu ni fa,79,10,2001,720374824-3
+927,MR 73 (a.k.a. The Last Deadly Mission),12,2,2000,284773619-0
+928,Kabul Express,2,12,2012,379275123-2
+929,Izo,96,15,2006,835783812-X
+930,Mad Dog Time,6,9,1979,376642554-4
+931,"Pirates of Penzance, The",49,12,1998,029459075-7
+932,Jacqueline Susann's Once Is Not Enough,34,9,2004,993916381-9
+933,"Perils of Pauline, The",15,1,2004,051804985-X
+934,Boiler Room,23,2,2001,963510996-2
+935,Familia,79,8,2006,788688481-7
+936,"Punk Singer, The",48,10,1993,364120811-4
+937,Papusza,7,14,2003,324601509-0
+938,Habit,61,13,1997,320770436-0
+939,Unmade Beds,5,3,2007,124736534-4
+940,Hercules and the Amazon Women,30,11,1996,857328812-4
+941,"Children of Leningradsky, The",58,15,2008,207859887-9
+942,"Reivers, The",42,4,2004,510896726-8
+943,Vassilisa the Beautiful (Vasilisa prekrasnaya),60,7,2002,783185036-8
+944,One A.M.,83,6,2012,768472991-8
+945,Pola X,46,5,1995,774478690-4
+946,Reykjavik-Rotterdam,55,10,2009,602483891-3
+947,Paris by Night,97,6,2008,180405925-0
+948,"Other F Word, The",25,9,2009,426867056-4
+949,"Groomsmen, The",76,2,2005,716923201-4
+950,Embracing,74,7,2006,299348067-7
+951,In the Fog (V tumane),87,4,2008,963794215-7
+952,Pentimento,2,14,2003,866233838-0
+953,Charlie Chan at Monte Carlo,72,13,2012,035147962-7
+954,Village of the Damned,12,5,1992,934931552-1
+955,These Amazing Shadows,18,12,1993,884678408-1
+956,"Gang's All Here, The",39,15,2011,723081538-X
+957,Daylight Robbery,40,1,2006,459841182-1
+958,Caliber 9,95,3,1999,243735154-X
+959,Martha Marcy May Marlene,56,11,2011,500788499-5
+960,"Adjustment Bureau, The",67,8,2002,820543417-4
+961,My Favorite Blonde,43,10,2008,438710141-5
+962,Walk on the Wild Side,72,4,2009,647582310-4
+963,Riviera,46,11,1991,791516730-8
+964,"Lesson in Love, A (En lektion i kärlek)",41,10,1995,920082806-X
+965,Naked in New York,14,5,1996,251059384-6
+966,Bill Bailey: Qualmpeddler,88,14,2005,126777838-5
+967,Dark Eyes (Oci ciornie),53,8,1993,714986997-1
+968,The Last Station,11,9,1994,630978892-2
+969,"Woman of Paris, A",25,3,2001,509326049-5
+970,"Incredible Shrinking Man, The",9,13,1984,245587062-6
+971,Rough Night in Jericho,22,7,1985,789636000-4
+972,John Carter,83,6,2010,428908287-4
+973,Brigham City,30,2,2009,139490947-0
+974,A Matter of Size,50,12,1997,686747647-3
+975,Monument Ave.,100,15,1996,279998856-3
+976,Swiss Family Robinson,91,1,2011,181884802-3
+977,Bambi Meets Godzilla,43,12,2005,778582184-4
+978,"First Case, Second Case (Ghazieh-e Shekl-e Aval, Ghazieh-e Shekl-e Dou Wom)",18,15,2007,397418659-X
+979,Charlie Chan in City in Darkness,77,4,2010,164539190-6
+980,"Man, The",61,10,2004,985586725-4
+981,Violette,80,7,2010,556298126-2
+982,Shanghai Triad (Yao a yao yao dao waipo qiao),87,8,2005,636500998-4
+983,Tycoon (Oligarkh),76,5,1980,175454994-2
+984,21-87,58,6,2006,644534198-5
+985,Orders to Kill,29,13,1996,214717224-3
+986,"Pellet (Bola, El)",94,9,2005,974577177-5
+987,Babies (Bébé(s)),19,3,1988,331465756-0
+988,Wake of the Red Witch,20,14,1973,412031101-5
+989,Hell's Kitchen,51,2,1988,524109136-X
+990,Downloaded,21,11,1995,667706278-3
+991,Autumn Sonata (Höstsonaten),15,1,2012,019763977-1
+992,Ace Ventura: When Nature Calls,17,2,2011,765483703-8
+993,2:37,28,8,1998,848566670-4
+994,Stander,74,10,1994,081209876-5
+995,Some Body,8,3,1998,177764934-X
+996,Bright Lights,38,9,2009,623891893-4
+997,My Voyage to Italy (Il mio viaggio in Italia),78,4,2000,690562496-9
+998,"Woman Under the Influence, A",32,1,2010,162742375-3
+999,Point Break,67,12,2011,091228865-5
+1000,Our Vines Have Tender Grapes,24,13,2011,774794065-3
